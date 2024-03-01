@@ -2,7 +2,7 @@
 
 ## Components
  - `greeting-service` - the main API to greet a user
- - `random-quote-service` - a dependent service providing random quotes persisted in the database (PostgreSQL)
+ - `template-service` - a dependent service providing greeting templates persisted in the PostgreSQL database
 
 ## Usage examples
 `TODO`
